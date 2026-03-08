@@ -1,0 +1,398 @@
+2026-03-07 21:36:37 - INFO - 客户端IP: 106.45.143.108
+2026-03-07 21:36:37 - INFO - 首次激活，IP归属地解析: 省份=宁夏, 城市=银川
+2026-03-07 21:36:37 - INFO - 卡密验证成功 - 归属地: 宁夏/银川
+2026-03-07 21:36:37 - INFO - 步骤2: 尝试91代理城市 '银川', 省份='宁夏'
+2026-03-07 21:36:37 - INFO - 代理获取成功: 请求=银川, 实际=宁夏.银川, 来源=91代理(城市:银川), IP=110.53.178.17:39479
+2026-03-07 21:37:23 - INFO - 设备ID预生成成功: f133dcd7...
+2026-03-07 21:37:30 - INFO - 发送验证码到手机: 185****2675, 代理城市: 银川
+2026-03-07 21:37:30 - INFO - 使用预生成的设备ID: f133dcd7...
+2026-03-07 21:37:32 - INFO - 缓存登录信息: is_user=True
+2026-03-07 21:37:32 - INFO - 验证码发送成功, is_user=True
+2026-03-07 21:38:28 - INFO - 首次登录参数: is_user=True
+2026-03-07 21:38:30 - INFO - 登录成功，后台任务已启动
+2026-03-07 21:38:30 - INFO - [异步] 选择游戏: gameid=d5k5v7j3uqiurliddsa0, task_no=d60pc6r3uqilebuvacfg
+2026-03-07 21:38:31 - INFO - [异步] 游戏任务 0cba7515-0c46-4e0b-9740-12f78c72a357 已启动
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 使用用户归属地代理: 银川
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤2: 尝试91代理城市 '银川', 省份='宁夏'
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤2失败: 91代理城市'银川'无可用代理
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] [91代理] 响应: {"code": 1004, "msg": "未检索到满足要求的代理IP，请调整筛选条件后再试，或联系客服处理！", "data": null}
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤3: 尝试相邻城市: ['石嘴山', '吴忠', '中卫', '鄂尔多斯', '阿拉善盟', '榆林', '庆阳']
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤3: 尝试相邻城市'石嘴山'(91代理)
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤3成功: 91代理(相邻:石嘴山)
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 代理获取成功: 请求=银川, 实际=宁夏.石嘴山, 来源=91代理(相邻:石嘴山), IP=58.20.11.119:57904
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 已更新任务代理位置: 宁夏.石嘴山
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 开始执行充值任务
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 开始充值流程
+2026-03-07 21:38:31 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 任务初始化 - 游戏ID: d5k5v7j3uqiurliddsa0, 任务编号: d60pc6r3uqilebuvacfg
+2026-03-07 21:38:31 - INFO - [代理:银川] 实名认证 - 开始查询状态
+2026-03-07 21:38:31 - INFO - [代理:银川] 实名认证 - 状态: 0
+2026-03-07 21:38:31 - INFO - [代理:银川] 实名认证 - 已通过 (status=0)
+2026-03-07 21:38:32 - INFO - [代理:银川] 游戏信息 - 获取成功: 主宰世界 (gameid=d5k5v7j3uqiurliddsa0, task_no=d60pc6r3uqilebuvacfg)
+2026-03-07 21:38:32 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 更新前游戏名称: 未知游戏
+2026-03-07 21:38:32 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 游戏名称已更新: 主宰世界
+2026-03-07 21:38:32 - INFO - [代理:银川] 游戏URL - 获取成功
+2026-03-07 21:38:32 - INFO - [代理:银川] 游戏上报 - 开始成功
+2026-03-07 21:38:33 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:38:33 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 使用数据库进度: 0%, 从第1次心跳开始
+2026-03-07 21:38:33 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:38:33 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 首次进度查询失败，使用默认心跳次数
+2026-03-07 21:38:33 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=58.20.11.119%3A57904
+2026-03-07 21:38:33 - INFO - [代理:银川] 调取api
+2026-03-07 21:38:35 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"w4q2AUXsql","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4dzM759kAJRN/lRQH53q6PavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:38:35 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'w4q2AUXsql', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4dzM759kAJRN/lRQH53q6PavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:38:35 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJ3NHEyQVVYc3FsIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNGR6TTc1OWtBSlJOL2xSUUg1M3E2UGF2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:38:36 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODI3MTYsIm5iZiI6MTc3Mjg5MDY1NiwiaWF0IjoxNzcyODkwNzE2LCJqdGkiOiJkNm0ya24zZTVtM2o4ODE1Y20wMCJ9.A7xstss1a1tLnC8UJPQQ4SmREKEiARDgJWu4C6oBPQI"}}
+2026-03-07 21:38:36 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODI3MTYsIm5iZiI6MTc3Mjg5MDY1NiwiaWF0IjoxNzcyODkwNzE2LCJqdGkiOiJkNm0ya24zZTVtM2o4ODE1Y20wMCJ9.A7xstss1a1tLnC8UJPQQ4SmREKEiARDgJWu4C6oBPQI', <class 'str'>]
+2026-03-07 21:38:36 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 1次/分钟，在线时长 0分0秒
+2026-03-07 21:38:36 - INFO - [代理:银川] 心跳 - [1] 成功 | 在线: 0分3秒 | 心跳速率: 1次/分钟 | 累计在线: 0分0秒
+2026-03-07 21:38:46 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 2次/分钟，在线时长 0分10秒
+2026-03-07 21:38:46 - INFO - [代理:银川] 心跳 - [2] 成功 | 在线: 0分13秒 | 心跳速率: 2次/分钟 | 累计在线: 0分10秒
+2026-03-07 21:39:06 - WARNING - [代理:银川] 心跳 - 网络失败 (1/10): ReadTimeout
+2026-03-07 21:39:07 - INFO - [代理:银川] 代理已更新: 银川
+2026-03-07 21:39:10 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 3次/分钟，在线时长 0分33秒
+2026-03-07 21:39:10 - INFO - [代理:银川] 心跳 - [3] 成功 | 在线: 0分37秒 | 心跳速率: 3次/分钟 | 累计在线: 0分33秒
+2026-03-07 21:39:18 - INFO - 首次登录参数: is_user=True
+2026-03-07 21:39:20 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 4次/分钟，在线时长 0分43秒
+2026-03-07 21:39:20 - INFO - [代理:银川] 心跳 - [4] 成功 | 在线: 0分47秒 | 心跳速率: 4次/分钟 | 累计在线: 0分43秒
+2026-03-07 21:39:29 - INFO - 登录成功，后台任务已启动
+2026-03-07 21:39:29 - INFO - [异步] 选择游戏: gameid=d5k5v7j3uqiurliddsa0, task_no=d60pc6r3uqilebuvacfg
+2026-03-07 21:39:29 - WARNING - [异步] 创建游戏任务失败（可能已有运行中的任务）
+2026-03-07 21:39:30 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 5次/分钟，在线时长 0分54秒
+2026-03-07 21:39:30 - INFO - [代理:银川] 心跳 - [5] 成功 | 在线: 0分58秒 | 心跳速率: 5次/分钟 | 累计在线: 0分54秒
+2026-03-07 21:39:41 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 5次/分钟，在线时长 1分4秒
+2026-03-07 21:39:41 - INFO - [代理:银川] 心跳 - [6] 成功 | 在线: 1分8秒 | 心跳速率: 5次/分钟 | 累计在线: 1分4秒
+2026-03-07 21:39:52 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 5次/分钟，在线时长 1分15秒
+2026-03-07 21:39:52 - INFO - [代理:银川] 心跳 - [7] 成功 | 在线: 1分19秒 | 心跳速率: 5次/分钟 | 累计在线: 1分15秒
+2026-03-07 21:40:02 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 1分26秒
+2026-03-07 21:40:02 - INFO - [代理:银川] 心跳 - [8] 成功 | 在线: 1分29秒 | 心跳速率: 6次/分钟 | 累计在线: 1分26秒
+2026-03-07 21:40:12 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 1分36秒
+2026-03-07 21:40:12 - INFO - [代理:银川] 心跳 - [9] 成功 | 在线: 1分40秒 | 心跳速率: 6次/分钟 | 累计在线: 1分36秒
+2026-03-07 21:40:23 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 1分46秒
+2026-03-07 21:40:23 - INFO - [代理:银川] 心跳 - [10] 成功 | 在线: 1分50秒 | 心跳速率: 6次/分钟 | 累计在线: 1分46秒
+2026-03-07 21:40:33 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 1分57秒
+2026-03-07 21:40:33 - INFO - [代理:银川] 心跳 - [11] 成功 | 在线: 2分0秒 | 心跳速率: 6次/分钟 | 累计在线: 1分57秒
+2026-03-07 21:40:43 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 2分7秒
+2026-03-07 21:40:43 - INFO - [代理:银川] 心跳 - [12] 成功 | 在线: 2分11秒 | 心跳速率: 6次/分钟 | 累计在线: 2分7秒
+2026-03-07 21:40:54 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 2分17秒
+2026-03-07 21:40:54 - INFO - [代理:银川] 心跳 - [13] 成功 | 在线: 2分21秒 | 心跳速率: 6次/分钟 | 累计在线: 2分17秒
+2026-03-07 21:41:04 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 2分28秒
+2026-03-07 21:41:04 - INFO - [代理:银川] 心跳 - [14] 成功 | 在线: 2分31秒 | 心跳速率: 6次/分钟 | 累计在线: 2分28秒
+2026-03-07 21:41:14 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 2分38秒
+2026-03-07 21:41:14 - INFO - [代理:银川] 心跳 - [15] 成功 | 在线: 2分41秒 | 心跳速率: 6次/分钟 | 累计在线: 2分38秒
+2026-03-07 21:41:24 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 2分48秒
+2026-03-07 21:41:24 - INFO - [代理:银川] 心跳 - [16] 成功 | 在线: 2分52秒 | 心跳速率: 6次/分钟 | 累计在线: 2分48秒
+2026-03-07 21:41:35 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 2分58秒
+2026-03-07 21:41:35 - INFO - [代理:银川] 心跳 - [17] 成功 | 在线: 3分2秒 | 心跳速率: 6次/分钟 | 累计在线: 2分58秒
+2026-03-07 21:41:45 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 3分9秒
+2026-03-07 21:41:45 - INFO - [代理:银川] 心跳 - [18] 成功 | 在线: 3分12秒 | 心跳速率: 6次/分钟 | 累计在线: 3分9秒
+2026-03-07 21:41:55 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 3分19秒
+2026-03-07 21:41:55 - INFO - [代理:银川] 心跳 - [19] 成功 | 在线: 3分23秒 | 心跳速率: 6次/分钟 | 累计在线: 3分19秒
+2026-03-07 21:42:06 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 3分29秒
+2026-03-07 21:42:06 - INFO - [代理:银川] 心跳 - [20] 成功 | 在线: 3分33秒 | 心跳速率: 6次/分钟 | 累计在线: 3分29秒
+2026-03-07 21:42:16 - WARNING - [代理:银川] 心跳 - 网络失败 (1/10): ConnectionError
+2026-03-07 21:42:16 - INFO - [代理:银川] 代理已更新: 银川
+2026-03-07 21:42:19 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 3分42秒
+2026-03-07 21:42:19 - INFO - [代理:银川] 心跳 - [21] 成功 | 在线: 3分46秒 | 心跳速率: 6次/分钟 | 累计在线: 3分42秒
+2026-03-07 21:42:29 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 3分52秒
+2026-03-07 21:42:29 - INFO - [代理:银川] 心跳 - [22] 成功 | 在线: 3分56秒 | 心跳速率: 6次/分钟 | 累计在线: 3分52秒
+2026-03-07 21:42:39 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 4分3秒
+2026-03-07 21:42:39 - INFO - [代理:银川] 心跳 - [23] 成功 | 在线: 4分6秒 | 心跳速率: 6次/分钟 | 累计在线: 4分3秒
+2026-03-07 21:42:49 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 4分13秒
+2026-03-07 21:42:49 - INFO - [代理:银川] 心跳 - [24] 成功 | 在线: 4分17秒 | 心跳速率: 6次/分钟 | 累计在线: 4分13秒
+2026-03-07 21:43:00 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 4分23秒
+2026-03-07 21:43:00 - INFO - [代理:银川] 心跳 - [25] 成功 | 在线: 4分27秒 | 心跳速率: 6次/分钟 | 累计在线: 4分23秒
+2026-03-07 21:43:10 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 4分33秒
+2026-03-07 21:43:10 - INFO - [代理:银川] 心跳 - [26] 成功 | 在线: 4分37秒 | 心跳速率: 6次/分钟 | 累计在线: 4分33秒
+2026-03-07 21:43:20 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 4分44秒
+2026-03-07 21:43:20 - INFO - [代理:银川] 心跳 - [27] 成功 | 在线: 4分47秒 | 心跳速率: 6次/分钟 | 累计在线: 4分44秒
+2026-03-07 21:43:30 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 4分54秒
+2026-03-07 21:43:30 - INFO - [代理:银川] 心跳 - [28] 成功 | 在线: 4分58秒 | 心跳速率: 6次/分钟 | 累计在线: 4分54秒
+2026-03-07 21:43:40 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 5分4秒
+2026-03-07 21:43:40 - INFO - [代理:银川] 心跳 - [29] 成功 | 在线: 5分8秒 | 心跳速率: 6次/分钟 | 累计在线: 5分4秒
+2026-03-07 21:43:51 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 5分14秒
+2026-03-07 21:43:51 - INFO - [代理:银川] 心跳 - [30] 成功 | 在线: 5分18秒 | 心跳速率: 6次/分钟 | 累计在线: 5分14秒
+2026-03-07 21:44:01 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 5分25秒
+2026-03-07 21:44:01 - INFO - [代理:银川] 心跳 - [31] 成功 | 在线: 5分28秒 | 心跳速率: 6次/分钟 | 累计在线: 5分25秒
+2026-03-07 21:44:11 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 5分35秒
+2026-03-07 21:44:11 - INFO - [代理:银川] 心跳 - [32] 成功 | 在线: 5分39秒 | 心跳速率: 6次/分钟 | 累计在线: 5分35秒
+2026-03-07 21:44:22 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 5分45秒
+2026-03-07 21:44:22 - INFO - [代理:银川] 心跳 - [33] 成功 | 在线: 5分49秒 | 心跳速率: 6次/分钟 | 累计在线: 5分45秒
+2026-03-07 21:44:32 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 5分56秒
+2026-03-07 21:44:32 - INFO - [代理:银川] 心跳 - [34] 成功 | 在线: 5分59秒 | 心跳速率: 6次/分钟 | 累计在线: 5分56秒
+2026-03-07 21:44:42 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 6分6秒
+2026-03-07 21:44:42 - INFO - [代理:银川] 心跳 - [35] 成功 | 在线: 6分10秒 | 心跳速率: 6次/分钟 | 累计在线: 6分6秒
+2026-03-07 21:44:53 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 6分16秒
+2026-03-07 21:44:53 - INFO - [代理:银川] 心跳 - [36] 成功 | 在线: 6分20秒 | 心跳速率: 6次/分钟 | 累计在线: 6分16秒
+2026-03-07 21:45:03 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 6分27秒
+2026-03-07 21:45:03 - INFO - [代理:银川] 心跳 - [37] 成功 | 在线: 6分30秒 | 心跳速率: 6次/分钟 | 累计在线: 6分27秒
+2026-03-07 21:45:13 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 6分37秒
+2026-03-07 21:45:13 - INFO - [代理:银川] 心跳 - [38] 成功 | 在线: 6分41秒 | 心跳速率: 6次/分钟 | 累计在线: 6分37秒
+2026-03-07 21:45:23 - WARNING - [代理:银川] 心跳 - 网络失败 (1/10): ConnectionError
+2026-03-07 21:45:25 - INFO - [代理:银川] 代理已更新: 银川
+2026-03-07 21:45:30 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 6分54秒
+2026-03-07 21:45:30 - INFO - [代理:银川] 心跳 - [39] 成功 | 在线: 6分57秒 | 心跳速率: 6次/分钟 | 累计在线: 6分54秒
+2026-03-07 21:45:40 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 7分4秒
+2026-03-07 21:45:40 - INFO - [代理:银川] 心跳 - [40] 成功 | 在线: 7分8秒 | 心跳速率: 6次/分钟 | 累计在线: 7分4秒
+2026-03-07 21:45:51 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 7分14秒
+2026-03-07 21:45:51 - INFO - [代理:银川] 心跳 - [41] 成功 | 在线: 7分18秒 | 心跳速率: 6次/分钟 | 累计在线: 7分14秒
+2026-03-07 21:46:01 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 7分25秒
+2026-03-07 21:46:01 - INFO - [代理:银川] 心跳 - [42] 成功 | 在线: 7分28秒 | 心跳速率: 6次/分钟 | 累计在线: 7分25秒
+2026-03-07 21:46:12 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 7分35秒
+2026-03-07 21:46:12 - INFO - [代理:银川] 心跳 - [43] 成功 | 在线: 7分39秒 | 心跳速率: 6次/分钟 | 累计在线: 7分35秒
+2026-03-07 21:46:22 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 7分46秒
+2026-03-07 21:46:22 - INFO - [代理:银川] 心跳 - [44] 成功 | 在线: 7分50秒 | 心跳速率: 6次/分钟 | 累计在线: 7分46秒
+2026-03-07 21:46:33 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 7分56秒
+2026-03-07 21:46:33 - INFO - [代理:银川] 心跳 - [45] 成功 | 在线: 8分0秒 | 心跳速率: 6次/分钟 | 累计在线: 7分56秒
+2026-03-07 21:46:44 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 8分8秒
+2026-03-07 21:46:44 - INFO - [代理:银川] 心跳 - [46] 成功 | 在线: 8分12秒 | 心跳速率: 6次/分钟 | 累计在线: 8分8秒
+2026-03-07 21:46:55 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 8分18秒
+2026-03-07 21:46:55 - INFO - [代理:银川] 心跳 - [47] 成功 | 在线: 8分22秒 | 心跳速率: 6次/分钟 | 累计在线: 8分18秒
+2026-03-07 21:47:05 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 8分29秒
+2026-03-07 21:47:05 - INFO - [代理:银川] 心跳 - [48] 成功 | 在线: 8分33秒 | 心跳速率: 6次/分钟 | 累计在线: 8分29秒
+2026-03-07 21:47:16 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 8分39秒
+2026-03-07 21:47:16 - INFO - [代理:银川] 心跳 - [49] 成功 | 在线: 8分43秒 | 心跳速率: 6次/分钟 | 累计在线: 8分39秒
+2026-03-07 21:47:26 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 8分50秒
+2026-03-07 21:47:26 - INFO - [代理:银川] 心跳 - [50] 成功 | 在线: 8分53秒 | 心跳速率: 6次/分钟 | 累计在线: 8分50秒
+2026-03-07 21:47:37 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 9分0秒
+2026-03-07 21:47:37 - INFO - [代理:银川] 心跳 - [51] 成功 | 在线: 9分4秒 | 心跳速率: 6次/分钟 | 累计在线: 9分0秒
+2026-03-07 21:47:47 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 9分11秒
+2026-03-07 21:47:47 - INFO - [代理:银川] 心跳 - [52] 成功 | 在线: 9分15秒 | 心跳速率: 6次/分钟 | 累计在线: 9分11秒
+2026-03-07 21:47:58 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 9分21秒
+2026-03-07 21:47:58 - INFO - [代理:银川] 心跳 - [53] 成功 | 在线: 9分25秒 | 心跳速率: 6次/分钟 | 累计在线: 9分21秒
+2026-03-07 21:48:08 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 9分31秒
+2026-03-07 21:48:08 - INFO - [代理:银川] 心跳 - [54] 成功 | 在线: 9分35秒 | 心跳速率: 6次/分钟 | 累计在线: 9分31秒
+2026-03-07 21:48:19 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 9分42秒
+2026-03-07 21:48:19 - INFO - [代理:银川] 心跳 - [55] 成功 | 在线: 9分46秒 | 心跳速率: 6次/分钟 | 累计在线: 9分42秒
+2026-03-07 21:48:29 - WARNING - [代理:银川] 进度查询 - 网络失败 (尝试 1): ConnectionError
+2026-03-07 21:48:29 - INFO - [代理:银川] 进度查询 - 更换代理
+2026-03-07 21:48:29 - INFO - [代理:银川] 代理已更新: 银川
+2026-03-07 21:48:31 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:48:31 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:48:31 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=103.43.135.9%3A46031
+2026-03-07 21:48:31 - INFO - [代理:银川] 调取api
+2026-03-07 21:48:34 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"WzWQPsiymA","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4lZiCIwo+MLD7P0H2bFAxDqvwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:48:34 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'WzWQPsiymA', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4lZiCIwo+MLD7P0H2bFAxDqvwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:48:34 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJXeldRUHNpeW1BIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNGxaaUNJd28rTUxEN1AwSDJiRkF4RHF2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:48:35 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODMzMTUsIm5iZiI6MTc3Mjg5MTI1NSwiaWF0IjoxNzcyODkxMzE1LCJqdGkiOiJkNm0ycGNyM3VxaWdnZ3Y5b2JnMCJ9.D0_Pp_8UfNngHXQcrtbGU4EYRiqlo7Q9dB68a6Vdf9Q"}}
+2026-03-07 21:48:35 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODMzMTUsIm5iZiI6MTc3Mjg5MTI1NSwiaWF0IjoxNzcyODkxMzE1LCJqdGkiOiJkNm0ycGNyM3VxaWdnZ3Y5b2JnMCJ9.D0_Pp_8UfNngHXQcrtbGU4EYRiqlo7Q9dB68a6Vdf9Q', <class 'str'>]
+2026-03-07 21:48:36 - INFO - [代理:银川] 未满足会员领取条件：心跳速率 6次/分钟，在线时长 9分59秒
+2026-03-07 21:48:36 - INFO - [代理:银川] 心跳 - [56] 成功 | 在线: 10分3秒 | 心跳速率: 6次/分钟 | 累计在线: 9分59秒
+2026-03-07 21:48:46 - INFO - [代理:银川] 满足会员领取条件：在线时长 10分10秒
+2026-03-07 21:48:46 - INFO - [代理:银川] 心跳 - [57] 成功 | 在线: 10分13秒 | 心跳速率: 6次/分钟 | 累计在线: 10分10秒
+2026-03-07 21:48:46 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 10分10秒
+2026-03-07 21:48:57 - INFO - [代理:银川] 满足会员领取条件：在线时长 10分20秒
+2026-03-07 21:48:57 - INFO - [代理:银川] 心跳 - [58] 成功 | 在线: 10分24秒 | 心跳速率: 6次/分钟 | 累计在线: 10分20秒
+2026-03-07 21:48:57 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 10分20秒
+2026-03-07 21:49:07 - INFO - [代理:银川] 满足会员领取条件：在线时长 10分31秒
+2026-03-07 21:49:07 - INFO - [代理:银川] 心跳 - [59] 成功 | 在线: 10分34秒 | 心跳速率: 6次/分钟 | 累计在线: 10分31秒
+2026-03-07 21:49:07 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 10分31秒
+2026-03-07 21:49:18 - INFO - [代理:银川] 满足会员领取条件：在线时长 10分42秒
+2026-03-07 21:49:18 - INFO - [代理:银川] 心跳 - [60] 成功 | 在线: 10分45秒 | 心跳速率: 6次/分钟 | 累计在线: 10分42秒
+2026-03-07 21:49:18 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 10分42秒
+2026-03-07 21:49:29 - INFO - [代理:银川] 满足会员领取条件：在线时长 10分53秒
+2026-03-07 21:49:29 - INFO - [代理:银川] 心跳 - [61] 成功 | 在线: 10分56秒 | 心跳速率: 6次/分钟 | 累计在线: 10分53秒
+2026-03-07 21:49:29 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 10分53秒
+2026-03-07 21:49:41 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:49:41 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:49:41 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=103.43.135.9%3A46031
+2026-03-07 21:49:41 - INFO - [代理:银川] 调取api
+2026-03-07 21:49:45 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"Sxxut3x8wW","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4dc6LhC9IdY6s04UJCU9zk6vwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:49:45 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'Sxxut3x8wW', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4dc6LhC9IdY6s04UJCU9zk6vwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:49:45 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJTeHh1dDN4OHdXIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNGRjNkxoQzlJZFk2czA0VUpDVTl6azZ2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:49:47 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODMzODYsIm5iZiI6MTc3Mjg5MTMyNiwiaWF0IjoxNzcyODkxMzg2LCJqdGkiOiJkNm0ycHVsc2E2ZzVkc2k4dWZkMCJ9.VWyPguwsBeXVdsGtD2xKp1cM0cCpYXeCRFmaABpYRbg"}}
+2026-03-07 21:49:47 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODMzODYsIm5iZiI6MTc3Mjg5MTMyNiwiaWF0IjoxNzcyODkxMzg2LCJqdGkiOiJkNm0ycHVsc2E2ZzVkc2k4dWZkMCJ9.VWyPguwsBeXVdsGtD2xKp1cM0cCpYXeCRFmaABpYRbg', <class 'str'>]
+2026-03-07 21:49:47 - INFO - [代理:银川] 满足会员领取条件：在线时长 11分11秒
+2026-03-07 21:49:47 - INFO - [代理:银川] 心跳 - [62] 成功 | 在线: 11分14秒 | 心跳速率: 5次/分钟 | 累计在线: 11分11秒
+2026-03-07 21:49:47 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 11分11秒
+2026-03-07 21:49:58 - INFO - [代理:银川] 满足会员领取条件：在线时长 11分22秒
+2026-03-07 21:49:58 - INFO - [代理:银川] 心跳 - [63] 成功 | 在线: 11分25秒 | 心跳速率: 5次/分钟 | 累计在线: 11分22秒
+2026-03-07 21:49:58 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 11分22秒
+2026-03-07 21:50:09 - INFO - [代理:银川] 满足会员领取条件：在线时长 11分32秒
+2026-03-07 21:50:09 - INFO - [代理:银川] 心跳 - [64] 成功 | 在线: 11分36秒 | 心跳速率: 5次/分钟 | 累计在线: 11分32秒
+2026-03-07 21:50:09 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 11分32秒
+2026-03-07 21:50:19 - INFO - [代理:银川] 满足会员领取条件：在线时长 11分43秒
+2026-03-07 21:50:19 - INFO - [代理:银川] 心跳 - [65] 成功 | 在线: 11分46秒 | 心跳速率: 5次/分钟 | 累计在线: 11分43秒
+2026-03-07 21:50:19 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 11分43秒
+2026-03-07 21:50:29 - INFO - [代理:银川] 满足会员领取条件：在线时长 11分53秒
+2026-03-07 21:50:29 - INFO - [代理:银川] 心跳 - [66] 成功 | 在线: 11分56秒 | 心跳速率: 5次/分钟 | 累计在线: 11分53秒
+2026-03-07 21:50:29 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 11分53秒
+2026-03-07 21:50:40 - INFO - [代理:银川] 满足会员领取条件：在线时长 12分3秒
+2026-03-07 21:50:40 - INFO - [代理:银川] 心跳 - [67] 成功 | 在线: 12分7秒 | 心跳速率: 6次/分钟 | 累计在线: 12分3秒
+2026-03-07 21:50:40 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 12分3秒
+2026-03-07 21:50:51 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:50:51 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:50:51 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=103.43.135.9%3A46031
+2026-03-07 21:50:51 - INFO - [代理:银川] 调取api
+2026-03-07 21:50:55 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"LHCZg92chl","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4nOp5LnrYtOAqfqOqZeJvw6vwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:50:55 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'LHCZg92chl', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4nOp5LnrYtOAqfqOqZeJvw6vwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:50:55 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJMSENaZzkyY2hsIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNG5PcDVMbnJZdE9BcWZxT3FaZUp2dzZ2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:50:56 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM0NTYsIm5iZiI6MTc3Mjg5MTM5NiwiaWF0IjoxNzcyODkxNDU2LCJqdGkiOiJkNm0ycWc1aWNldGJqOHJzbmtsMCJ9.EEglcOWLDXKsOd2_ePiWL3zbP6xAglJcZk9yzM_mx1k"}}
+2026-03-07 21:50:56 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM0NTYsIm5iZiI6MTc3Mjg5MTM5NiwiaWF0IjoxNzcyODkxNDU2LCJqdGkiOiJkNm0ycWc1aWNldGJqOHJzbmtsMCJ9.EEglcOWLDXKsOd2_ePiWL3zbP6xAglJcZk9yzM_mx1k', <class 'str'>]
+2026-03-07 21:50:57 - INFO - [代理:银川] 满足会员领取条件：在线时长 12分21秒
+2026-03-07 21:50:57 - INFO - [代理:银川] 心跳 - [68] 成功 | 在线: 12分24秒 | 心跳速率: 6次/分钟 | 累计在线: 12分21秒
+2026-03-07 21:50:57 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 12分21秒
+2026-03-07 21:51:07 - INFO - [代理:银川] 满足会员领取条件：在线时长 12分31秒
+2026-03-07 21:51:07 - INFO - [代理:银川] 心跳 - [69] 成功 | 在线: 12分35秒 | 心跳速率: 6次/分钟 | 累计在线: 12分31秒
+2026-03-07 21:51:07 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 12分31秒
+2026-03-07 21:51:18 - INFO - [代理:银川] 满足会员领取条件：在线时长 12分41秒
+2026-03-07 21:51:18 - INFO - [代理:银川] 心跳 - [70] 成功 | 在线: 12分45秒 | 心跳速率: 6次/分钟 | 累计在线: 12分41秒
+2026-03-07 21:51:18 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 12分41秒
+2026-03-07 21:51:28 - INFO - [代理:银川] 满足会员领取条件：在线时长 12分52秒
+2026-03-07 21:51:28 - INFO - [代理:银川] 心跳 - [71] 成功 | 在线: 12分55秒 | 心跳速率: 6次/分钟 | 累计在线: 12分52秒
+2026-03-07 21:51:28 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 12分52秒
+2026-03-07 21:51:39 - WARNING - [代理:银川] 心跳 - 网络失败 (1/10): ConnectionError
+2026-03-07 21:51:39 - INFO - [代理:银川] 代理已更新: 银川
+2026-03-07 21:51:42 - INFO - [代理:银川] 满足会员领取条件：在线时长 13分5秒
+2026-03-07 21:51:42 - INFO - [代理:银川] 心跳 - [72] 成功 | 在线: 13分9秒 | 心跳速率: 5次/分钟 | 累计在线: 13分5秒
+2026-03-07 21:51:42 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 13分5秒
+2026-03-07 21:51:52 - INFO - [代理:银川] 满足会员领取条件：在线时长 13分16秒
+2026-03-07 21:51:52 - INFO - [代理:银川] 心跳 - [73] 成功 | 在线: 13分19秒 | 心跳速率: 6次/分钟 | 累计在线: 13分16秒
+2026-03-07 21:51:52 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 13分16秒
+2026-03-07 21:52:03 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:52:03 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:52:03 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=218.93.164.91%3A52771
+2026-03-07 21:52:03 - INFO - [代理:银川] 调取api
+2026-03-07 21:52:08 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"THeFQiEq7B","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4/zO2xtBjlJ92UmSBaAtlqavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:52:08 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'THeFQiEq7B', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4/zO2xtBjlJ92UmSBaAtlqavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:52:08 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJUSGVGUWlFcTdCIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNC96TzJ4dEJqbEo5MlVtU0JhQXRscWF2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:52:08 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM1MjgsIm5iZiI6MTc3Mjg5MTQ2OCwiaWF0IjoxNzcyODkxNTI4LCJqdGkiOiJkNm0ycjIzZTVtM2xsaTZuMmU0ZyJ9.7jWEEKrButUHiEl8Lx6ITVpCl1sX58xbhVD24AriD2E"}}
+2026-03-07 21:52:08 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM1MjgsIm5iZiI6MTc3Mjg5MTQ2OCwiaWF0IjoxNzcyODkxNTI4LCJqdGkiOiJkNm0ycjIzZTVtM2xsaTZuMmU0ZyJ9.7jWEEKrButUHiEl8Lx6ITVpCl1sX58xbhVD24AriD2E', <class 'str'>]
+2026-03-07 21:52:09 - INFO - [代理:银川] 满足会员领取条件：在线时长 13分33秒
+2026-03-07 21:52:09 - INFO - [代理:银川] 心跳 - [74] 成功 | 在线: 13分36秒 | 心跳速率: 5次/分钟 | 累计在线: 13分33秒
+2026-03-07 21:52:09 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 13分33秒
+2026-03-07 21:52:19 - INFO - [代理:银川] 满足会员领取条件：在线时长 13分43秒
+2026-03-07 21:52:19 - INFO - [代理:银川] 心跳 - [75] 成功 | 在线: 13分46秒 | 心跳速率: 5次/分钟 | 累计在线: 13分43秒
+2026-03-07 21:52:19 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 13分43秒
+2026-03-07 21:52:29 - INFO - [代理:银川] 满足会员领取条件：在线时长 13分53秒
+2026-03-07 21:52:29 - INFO - [代理:银川] 心跳 - [76] 成功 | 在线: 13分57秒 | 心跳速率: 5次/分钟 | 累计在线: 13分53秒
+2026-03-07 21:52:29 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 13分53秒
+2026-03-07 21:52:40 - INFO - [代理:银川] 满足会员领取条件：在线时长 14分3秒
+2026-03-07 21:52:40 - INFO - [代理:银川] 心跳 - [77] 成功 | 在线: 14分7秒 | 心跳速率: 6次/分钟 | 累计在线: 14分3秒
+2026-03-07 21:52:40 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 14分3秒
+2026-03-07 21:52:50 - INFO - [代理:银川] 满足会员领取条件：在线时长 14分13秒
+2026-03-07 21:52:50 - INFO - [代理:银川] 心跳 - [78] 成功 | 在线: 14分17秒 | 心跳速率: 6次/分钟 | 累计在线: 14分13秒
+2026-03-07 21:52:50 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 14分13秒
+2026-03-07 21:53:00 - INFO - [代理:银川] 满足会员领取条件：在线时长 14分24秒
+2026-03-07 21:53:00 - INFO - [代理:银川] 心跳 - [79] 成功 | 在线: 14分27秒 | 心跳速率: 6次/分钟 | 累计在线: 14分24秒
+2026-03-07 21:53:00 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 14分24秒
+2026-03-07 21:53:11 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:53:11 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:53:11 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=218.93.164.91%3A52771
+2026-03-07 21:53:11 - INFO - [代理:银川] 调取api
+2026-03-07 21:53:14 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"Ze2wtq4RIK","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4GffRcMma20uXKwb/u2yIoavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:53:14 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'Ze2wtq4RIK', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4GffRcMma20uXKwb/u2yIoavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:53:14 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJaZTJ3dHE0UklLIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNEdmZlJjTW1hMjB1WEt3Yi91MnlJb2F2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:53:14 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM1OTQsIm5iZiI6MTc3Mjg5MTUzNCwiaWF0IjoxNzcyODkxNTk0LCJqdGkiOiJkNm0ycmlqZTVtM2o4ODE1ZGltZyJ9.I5xh8jDSOVdVcsaAKCQx7ZOXitYaN2Cn39_Tq-SN9yE"}}
+2026-03-07 21:53:14 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM1OTQsIm5iZiI6MTc3Mjg5MTUzNCwiaWF0IjoxNzcyODkxNTk0LCJqdGkiOiJkNm0ycmlqZTVtM2o4ODE1ZGltZyJ9.I5xh8jDSOVdVcsaAKCQx7ZOXitYaN2Cn39_Tq-SN9yE', <class 'str'>]
+2026-03-07 21:53:14 - INFO - [代理:银川] 满足会员领取条件：在线时长 14分38秒
+2026-03-07 21:53:14 - INFO - [代理:银川] 心跳 - [80] 成功 | 在线: 14分41秒 | 心跳速率: 6次/分钟 | 累计在线: 14分38秒
+2026-03-07 21:53:14 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 14分38秒
+2026-03-07 21:53:24 - INFO - [代理:银川] 满足会员领取条件：在线时长 14分48秒
+2026-03-07 21:53:24 - INFO - [代理:银川] 心跳 - [81] 成功 | 在线: 14分52秒 | 心跳速率: 6次/分钟 | 累计在线: 14分48秒
+2026-03-07 21:53:24 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 14分48秒
+2026-03-07 21:53:35 - INFO - [代理:银川] 满足会员领取条件：在线时长 14分58秒
+2026-03-07 21:53:35 - INFO - [代理:银川] 心跳 - [82] 成功 | 在线: 15分2秒 | 心跳速率: 6次/分钟 | 累计在线: 14分58秒
+2026-03-07 21:53:35 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 14分58秒
+2026-03-07 21:53:45 - INFO - [代理:银川] 满足会员领取条件：在线时长 15分9秒
+2026-03-07 21:53:45 - INFO - [代理:银川] 心跳 - [83] 成功 | 在线: 15分12秒 | 心跳速率: 6次/分钟 | 累计在线: 15分9秒
+2026-03-07 21:53:45 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 15分9秒
+2026-03-07 21:53:55 - INFO - [代理:银川] 满足会员领取条件：在线时长 15分19秒
+2026-03-07 21:53:55 - INFO - [代理:银川] 心跳 - [84] 成功 | 在线: 15分22秒 | 心跳速率: 6次/分钟 | 累计在线: 15分19秒
+2026-03-07 21:53:55 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 15分19秒
+2026-03-07 21:54:06 - INFO - [代理:银川] 满足会员领取条件：在线时长 15分29秒
+2026-03-07 21:54:06 - INFO - [代理:银川] 心跳 - [85] 成功 | 在线: 15分33秒 | 心跳速率: 6次/分钟 | 累计在线: 15分29秒
+2026-03-07 21:54:06 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 15分29秒
+2026-03-07 21:54:17 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:54:17 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:54:17 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=218.93.164.91%3A52771
+2026-03-07 21:54:17 - INFO - [代理:银川] 调取api
+2026-03-07 21:54:21 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"vT5N7fSSkC","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4EYEPuSzenHNoHFFxuiiWu6vwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:54:21 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'vT5N7fSSkC', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4EYEPuSzenHNoHFFxuiiWu6vwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:54:21 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJ2VDVON2ZTU2tDIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNEVZRVB1U3plbkhOb0hGRnh1aWlXdTZ2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:54:23 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM2NjIsIm5iZiI6MTc3Mjg5MTYwMiwiaWF0IjoxNzcyODkxNjYyLCJqdGkiOiJkNm0yczNqM3VxaXBrbzEzOWZnZyJ9.hz2RI7jxqJFE9W1rGFZDAtzQB6M-ZHgIt973eenbHdo"}}
+2026-03-07 21:54:23 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM2NjIsIm5iZiI6MTc3Mjg5MTYwMiwiaWF0IjoxNzcyODkxNjYyLCJqdGkiOiJkNm0yczNqM3VxaXBrbzEzOWZnZyJ9.hz2RI7jxqJFE9W1rGFZDAtzQB6M-ZHgIt973eenbHdo', <class 'str'>]
+2026-03-07 21:54:23 - INFO - [代理:银川] 满足会员领取条件：在线时长 15分46秒
+2026-03-07 21:54:23 - INFO - [代理:银川] 心跳 - [86] 成功 | 在线: 15分50秒 | 心跳速率: 6次/分钟 | 累计在线: 15分46秒
+2026-03-07 21:54:23 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 15分46秒
+2026-03-07 21:54:33 - INFO - [代理:银川] 满足会员领取条件：在线时长 15分57秒
+2026-03-07 21:54:33 - INFO - [代理:银川] 心跳 - [87] 成功 | 在线: 16分0秒 | 心跳速率: 6次/分钟 | 累计在线: 15分57秒
+2026-03-07 21:54:33 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 15分57秒
+2026-03-07 21:54:44 - WARNING - [代理:银川] 心跳 - 网络失败 (1/10): ConnectionError
+2026-03-07 21:54:44 - INFO - [代理:银川] 代理已更新: 银川
+2026-03-07 21:54:47 - INFO - [代理:银川] 满足会员领取条件：在线时长 16分11秒
+2026-03-07 21:54:47 - INFO - [代理:银川] 心跳 - [88] 成功 | 在线: 16分15秒 | 心跳速率: 5次/分钟 | 累计在线: 16分11秒
+2026-03-07 21:54:47 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 16分11秒
+2026-03-07 21:54:59 - INFO - [代理:银川] 满足会员领取条件：在线时长 16分22秒
+2026-03-07 21:54:59 - INFO - [代理:银川] 心跳 - [89] 成功 | 在线: 16分26秒 | 心跳速率: 5次/分钟 | 累计在线: 16分22秒
+2026-03-07 21:54:59 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 16分22秒
+2026-03-07 21:55:10 - INFO - [代理:银川] 满足会员领取条件：在线时长 16分33秒
+2026-03-07 21:55:10 - INFO - [代理:银川] 心跳 - [90] 成功 | 在线: 16分37秒 | 心跳速率: 5次/分钟 | 累计在线: 16分33秒
+2026-03-07 21:55:10 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 16分33秒
+2026-03-07 21:55:20 - INFO - [代理:银川] 满足会员领取条件：在线时长 16分44秒
+2026-03-07 21:55:20 - INFO - [代理:银川] 心跳 - [91] 成功 | 在线: 16分48秒 | 心跳速率: 6次/分钟 | 累计在线: 16分44秒
+2026-03-07 21:55:20 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 16分44秒
+2026-03-07 21:55:32 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:55:32 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:55:32 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=218.93.164.114%3A53229
+2026-03-07 21:55:32 - INFO - [代理:银川] 调取api
+2026-03-07 21:55:35 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"tEVx1nG0i4","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4Y9iSCQ99OIn9b4ZNHYGuRavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:55:35 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'tEVx1nG0i4', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4Y9iSCQ99OIn9b4ZNHYGuRavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:55:35 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJ0RVZ4MW5HMGk0Iiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNFk5aVNDUTk5T0luOWI0Wk5IWUd1UmF2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:55:35 - WARNING - [代理:银川] 获取token异常: HTTPSConnectionPool(host='youxi.xunlei.com', port=443): Max retries exceeded with url: /api/gamebox/v1/heartbeat/token?platform=mobi_game_center (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+2026-03-07 21:55:35 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=http%3A%2F%2F218.93.164.114%3A53229
+2026-03-07 21:55:35 - INFO - [代理:银川] 调取api
+2026-03-07 21:55:38 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"7XW4yRaIQS","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4GSULsrjoBLvBMUeLrcyYFKvwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:55:38 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': '7XW4yRaIQS', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM4GSULsrjoBLvBMUeLrcyYFKvwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:55:38 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiI3WFc0eVJhSVFTIiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNEdTVUxzcmpvQkx2Qk1VZUxyY3lZRkt2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:55:42 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM3NDEsIm5iZiI6MTc3Mjg5MTY4MSwiaWF0IjoxNzcyODkxNzQxLCJqdGkiOiJkNm0yc25kc2E2ZzVkc2k4dXFsMCJ9.TRcW55GEwPkeS0svQfsmILFlLR2-xOtpvrElZ5hkzdI"}}
+2026-03-07 21:55:42 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM3NDEsIm5iZiI6MTc3Mjg5MTY4MSwiaWF0IjoxNzcyODkxNzQxLCJqdGkiOiJkNm0yc25kc2E2ZzVkc2k4dXFsMCJ9.TRcW55GEwPkeS0svQfsmILFlLR2-xOtpvrElZ5hkzdI', <class 'str'>]
+2026-03-07 21:55:42 - INFO - [代理:银川] 满足会员领取条件：在线时长 17分6秒
+2026-03-07 21:55:42 - INFO - [代理:银川] 心跳 - [92] 成功 | 在线: 17分10秒 | 心跳速率: 5次/分钟 | 累计在线: 17分6秒
+2026-03-07 21:55:42 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 17分6秒
+2026-03-07 21:55:53 - INFO - [代理:银川] 满足会员领取条件：在线时长 17分16秒
+2026-03-07 21:55:53 - INFO - [代理:银川] 心跳 - [93] 成功 | 在线: 17分20秒 | 心跳速率: 5次/分钟 | 累计在线: 17分16秒
+2026-03-07 21:55:53 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 17分16秒
+2026-03-07 21:56:04 - INFO - [代理:银川] 满足会员领取条件：在线时长 17分28秒
+2026-03-07 21:56:04 - INFO - [代理:银川] 心跳 - [94] 成功 | 在线: 17分31秒 | 心跳速率: 5次/分钟 | 累计在线: 17分28秒
+2026-03-07 21:56:04 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 17分28秒
+2026-03-07 21:56:14 - INFO - [代理:银川] 满足会员领取条件：在线时长 17分38秒
+2026-03-07 21:56:14 - INFO - [代理:银川] 心跳 - [95] 成功 | 在线: 17分42秒 | 心跳速率: 5次/分钟 | 累计在线: 17分38秒
+2026-03-07 21:56:14 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 17分38秒
+2026-03-07 21:56:25 - INFO - [代理:银川] 满足会员领取条件：在线时长 17分49秒
+2026-03-07 21:56:25 - INFO - [代理:银川] 心跳 - [96] 成功 | 在线: 17分52秒 | 心跳速率: 5次/分钟 | 累计在线: 17分49秒
+2026-03-07 21:56:25 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 17分49秒
+2026-03-07 21:56:36 - INFO - [代理:银川] 满足会员领取条件：在线时长 17分59秒
+2026-03-07 21:56:36 - INFO - [代理:银川] 心跳 - [97] 成功 | 在线: 18分3秒 | 心跳速率: 6次/分钟 | 累计在线: 17分59秒
+2026-03-07 21:56:36 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 17分59秒
+2026-03-07 21:56:49 - ERROR - [代理:银川] 进度查询 - 任务编号不存在: d60pc6r3uqilebuvacfg
+2026-03-07 21:56:49 - WARNING - [0cba7515-0c46-4e0b-9740-12f78c72a357] 进度查询失败，使用默认心跳次数6次
+2026-03-07 21:56:49 - INFO - [代理:银川] api:http://1.12.240.196:788/captcha/aliyun-v2?region=cn&prefix=sizq40&scene=10mix91b&is_verify=1&href=https%3A%2F%2Fwap-youxi.xunlei.com&proxy=218.93.164.114%3A53229
+2026-03-07 21:56:49 - INFO - [代理:银川] 调取api
+2026-03-07 21:56:52 - INFO - [代理:银川] resp_text:{"author":"martcat2js","data":{"certifyId":"sjcepSKD1x","data":"","deviceToken":"","retry":1,"sceneId":"10mix91b","securityToken":"6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM42N3Vb/nFOW5uBXwChw49UavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv"},"status":true}
+2026-03-07 21:56:52 - INFO - [代理:银川] resp_dict:{'author': 'martcat2js', 'data': {'certifyId': 'sjcepSKD1x', 'data': '', 'deviceToken': '', 'retry': 1, 'sceneId': '10mix91b', 'securityToken': '6oOo7e72nA61uVLiZVKiLV5AXtY5dpKedrvJOKgMsFDht/nbrPAEksz/K9ksFHM42N3Vb/nFOW5uBXwChw49UavwJG/ccPORsTfk5N+gwvn56NGZxtYVnpGPQU+OTmIv'}, 'status': True}
+2026-03-07 21:56:52 - INFO - [代理:银川] verify_param:eyJjZXJ0aWZ5SWQiOiJzamNlcFNLRDF4Iiwic2NlbmVJZCI6IjEwbWl4OTFiIiwiaXNTaWduIjp0cnVlLCJzZWN1cml0eVRva2VuIjoiNm9PbzdlNzJuQTYxdVZMaVpWS2lMVjVBWHRZNWRwS2VkcnZKT0tnTXNGRGh0L25iclBBRWtzei9LOWtzRkhNNDJOM1ZiL25GT1c1dUJYd0NodzQ5VWF2d0pHL2NjUE9Sc1RmazVOK2d3dm41Nk5HWnh0WVZucEdQUVUrT1RtSXYifQ==
+2026-03-07 21:56:54 - INFO - [代理:银川] resp_text_v:{"code":0, "message":"ok", "data":{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM4MTQsIm5iZiI6MTc3Mjg5MTc1NCwiaWF0IjoxNzcyODkxODE0LCJqdGkiOiJkNm0ydDlqM3VxaWhvYnJnN29sZyJ9.XjiYKcgPNQVNB4Raffn_M1M9LMQS92pNah1gnFlg5w0"}}
+2026-03-07 21:56:54 - INFO - [代理:银川] token:['eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYW1lYm94LWFwaSIsInN1YiI6IjE0MjA2NzI2NDMiLCJleHAiOjE3NzU0ODM4MTQsIm5iZiI6MTc3Mjg5MTc1NCwiaWF0IjoxNzcyODkxODE0LCJqdGkiOiJkNm0ydDlqM3VxaWhvYnJnN29sZyJ9.XjiYKcgPNQVNB4Raffn_M1M9LMQS92pNah1gnFlg5w0', <class 'str'>]
+2026-03-07 21:56:55 - INFO - [代理:银川] 满足会员领取条件：在线时长 18分18秒
+2026-03-07 21:56:55 - INFO - [代理:银川] 心跳 - [98] 成功 | 在线: 18分22秒 | 心跳速率: 5次/分钟 | 累计在线: 18分18秒
+2026-03-07 21:56:55 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 18分18秒
+2026-03-07 21:57:05 - INFO - [代理:银川] 满足会员领取条件：在线时长 18分28秒
+2026-03-07 21:57:05 - INFO - [代理:银川] 心跳 - [99] 成功 | 在线: 18分32秒 | 心跳速率: 5次/分钟 | 累计在线: 18分28秒
+2026-03-07 21:57:05 - INFO - [代理:银川] 🎉 满足会员领取条件: 在线时长达到 18分28秒
+2026-03-07 22:04:53 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 使用用户归属地代理: 银川
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤2: 尝试91代理城市 '银川', 省份='宁夏'
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 步骤2成功: 91代理(城市:银川)
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 代理获取成功: 请求=银川, 实际=宁夏.银川, 来源=91代理(城市:银川), IP=58.19.48.176:11814
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 已更新任务代理位置: 宁夏.银川
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 开始执行充值任务
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 开始充值流程
+2026-03-07 22:04:54 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 任务初始化 - 游戏ID: d5k5v7j3uqiurliddsa0, 任务编号: d60pc6r3uqilebuvacfg
+2026-03-07 22:04:54 - INFO - [代理:银川] 实名认证 - 开始查询状态
+2026-03-07 22:04:55 - INFO - [代理:银川] 实名认证 - 状态: 0
+2026-03-07 22:04:55 - INFO - [代理:银川] 实名认证 - 已通过 (status=0)
+2026-03-07 22:04:55 - INFO - [代理:银川] 游戏信息 - 获取成功: 主宰世界 (gameid=d5k5v7j3uqiurliddsa0, task_no=d60pc6r3uqilebuvacfg)
+2026-03-07 22:04:55 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 更新前游戏名称: 主宰世界
+2026-03-07 22:04:55 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 游戏名称已更新: 主宰世界
+2026-03-07 22:04:56 - INFO - [代理:银川] 游戏URL - 获取成功
+2026-03-07 22:04:56 - INFO - [0cba7515-0c46-4e0b-9740-12f78c72a357] 恢复任务，跳过游戏开始上报
+20
